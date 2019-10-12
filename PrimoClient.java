@@ -32,6 +32,7 @@ public class PrimoClient {
         } catch (IOException ex) {
             Logger.getLogger(PrimoClient.class.getName()).log(Level.SEVERE, null, ex);
         }*/
+        
         try {
             // TODO code application logic here
 
